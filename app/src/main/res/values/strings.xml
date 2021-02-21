@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fotag</string>
+    <string name="Remove_name">ReMove</string>
+    <string name="Reload_name">ReLoad</string>
+    <string name="Rating">Rating</string>
+    <string name= "indiv_grid_animal">indiv_grid_animal</string>
+</resources>
