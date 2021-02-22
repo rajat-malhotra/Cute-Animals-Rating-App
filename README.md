@@ -1,6 +1,6 @@
 
-![Screenshot](Preview1.png)
-![Screenshot](Preview2.png)
+![Alt text](Preview1.png)
+![Alt text](Preview2.png)
 
 #Photo-viewer
 
