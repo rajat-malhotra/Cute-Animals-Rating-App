@@ -1,7 +1,7 @@
 
-![preview](Preview1.png)
+![preview](preview1.png)
 
-![preview](Preview2.png)
+![preview](preview2.png)
 
 #Photo-viewer
 
