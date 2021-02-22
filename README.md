@@ -1,6 +1,7 @@
 
-!(Preview1.png)
-!(Preview2.png)
+![alt tag](Preview1.png)
+
+![alt tag](Preview2.png)
 
 #Photo-viewer
 
