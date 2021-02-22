@@ -1,7 +1,7 @@
 #Photo-viewer
 
-![Alt text](Preview1.png)
-![Alt text](Preview2.png)
+![Screenshot](Preview1.png)
+![Screenshot](Preview2.png)
 
 System specifications :
 
