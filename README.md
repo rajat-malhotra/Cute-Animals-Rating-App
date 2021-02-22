@@ -1,6 +1,6 @@
 
-![Alt text](Preview1.png)
-![Alt text](Preview2.png)
+!(Preview1.png)
+!(Preview2.png)
 
 #Photo-viewer
 
