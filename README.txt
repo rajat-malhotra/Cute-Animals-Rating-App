@@ -1,5 +1,8 @@
 #Photo-viewer
 
+![Alt text](Preview1.png)
+![Alt text](Preview2.png)
+
 System specifications :
 
 openjdk version "11.0.5" 2019-10-15
